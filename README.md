@@ -3,7 +3,7 @@
 ### 안녕하세요. 에반젤리즘 팀 var Bot 입니다.
 저희는 6명의 개발자로 구성되어 있습니다.
 - 김동섭 
-- 김홍민
+- 김홍민 (https://github.com/hongman, hongmin.kim@studentpartner.com)
 - 도지윤 (https://github.com/yunmap, kalmpink@korea.ac.kr)
 - 이민정
 - 정주홍 (https://github.com/toughrogrammer, )
