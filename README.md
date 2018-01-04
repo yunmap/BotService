@@ -29,7 +29,7 @@ npm install --save ***
 8. 그리고, online code editor에서는 AppID와 PW를 등록해야 합니다.
 9. 단, local 폴더를 이용하여 진행한다면 별도의 등록 과정이 필요하지 않습니다.
 봇을 생성하는 과정은 https://github.com/angie4u/BotFramework 에 그림과 함께 더 자세히 설명되어 있습니다.
-
+또한, [var Bot 김동섭 MSP의 블로그](https://eastskim.blogspot.kr/2017/12/pizzachicken.html?m=1)를 참고하셔도 좋습니다.
 
 ### 레포지토리 이용법
 
