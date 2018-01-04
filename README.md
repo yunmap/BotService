@@ -59,5 +59,5 @@ npm install --save ***
 2차세미나
 
 ![2차세미나](https://github.com/yunmap/BotService/blob/master/album/image2.jpg)
-Microsoft의 배민수 차장님의 Introduction으로 시작한 2차 세미나!
+Microsoft 배민수 차장님의 Introduction으로 시작한 2차 세미나!
 ![2차세미나](https://github.com/yunmap/BotService/blob/master/album/image1.jpg)
