@@ -4,9 +4,9 @@
 저희는 6명의 개발자로 구성되어 있습니다.
 - 김동섭 
 - 김홍민
-- 도지윤 (github.com/yunmap, kalmpink@korea.ac.kr)
+- 도지윤 (https://github.com/yunmap, kalmpink@korea.ac.kr)
 - 이민정
-- 정주홍
+- 정주홍 (https://github.com/toughrogrammer, )
 - 황나윤
 
 ### Bot Service 만드는 과정
@@ -47,4 +47,9 @@ npm install --save ***
 
 ### 현장 사진
 
-![1차세미나](/album/)
+![1차세미나](BotService/album/image4.jpg)
+![1차세미나](BotService/album/image5.jpg)
+![1차세미나](BotService/album/image3.jpg)
+![2차세미나](BotService/album/image1.jpg)
+Microsoft의 배민수 차장님의 Introduction으로 시작한 2차 세미나!
+![2차세미나](BotService/album/image2.jpg)
