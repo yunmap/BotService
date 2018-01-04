@@ -1,7 +1,7 @@
 ## Microsoft Student Partner, team "var Bot"
 ### Bot Service 만드는 과정
 
-0. 한국어를 사용하는 자연어처리 챗봇을 만들기 위해서 bot을 만들 때 Language Understanding이 아닌 그냥 basic model을 선택해야 합니다. 추측으로는 Language Understanding model 자체가 영어로 설정되어 있기 때문에 언어 상의 충돌이 발생하기 때문인 것 같습니다.
+0. 한국어를 사용하는 자연어처리 챗봇을 만들기 위해서 bot을 만들 때 Language Understanding이 아닌 그냥 **basic model을 선택해야 합니다**. 추측으로는 Language Understanding model 자체가 영어로 설정되어 있기 때문에 언어 상의 충돌이 발생하기 때문인 것 같습니다.
 1. 봇을 simulate 해보기 위해서는 nodejs 설치가 필요합니다.
 2. 봇을 만들 로컬 폴더에서 cmd를 실행하여 npm init 명령어를 실행합니다.
 3. 로컬 폴더의 cmd에서 필요한 package들을 설치합니다. (botbuilder, restify, request, dotenv-extended)
