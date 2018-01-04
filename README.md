@@ -7,7 +7,7 @@
 - 도지윤 (https://github.com/yunmap)
 - 이민정 (https://github.com/s7mile)
 - 정주홍 (https://github.com/toughrogrammer)
-- 황나윤
+- 황나윤 (https://github.com/matilda38)
 
 
 ### Bot Service 만드는 과정
