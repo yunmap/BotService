@@ -35,10 +35,10 @@ npm install --save ***
 발표자료 폴더에 1차 세미나와 2차 세미나 때 사용했던 발표자료를 pdf로 올려놓았습니다.
 1차 세미나는 개론 위주(챗봇이 어떻게 사용되는지, 종류, 만드는 과정)로 진행되었고, 2차 세미나는 LUIS를 사용하여 피자를 주문하는 챗봇을 모든 참가자 분들이 만들어보는 방식으로 진행되었습니다.
 - 1차 세미나
-> (1) Bot 어떻게 적용할까? (실제 예시를 바탕으로)
-> (2) Bot Service와 Bot Framework (쉽게 만드는 bot)
-> (3) Bot Framework with Azure. (Bot Framework는 Azure 환경에서 어떻게 실행되는가)
+> 1. Bot 어떻게 적용할까? (실제 예시를 바탕으로)
+> 2. Bot Service와 Bot Framework (쉽게 만드는 bot)
+> 3. Bot Framework with Azure. (Bot Framework는 Azure 환경에서 어떻게 실행되는가)
 - 2차 세미나
-> (1) 실습 안내자료
+> 1. 실습 안내자료
 실습코드 폴더에 2차 세미나의 완성 코드를 첨부하였습니다.
 이 코드를 참고하시면 LUIS를 사용하는 모든 챗봇을 만들 수 있습니다.
