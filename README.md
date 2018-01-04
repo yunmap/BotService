@@ -38,7 +38,13 @@ npm install --save ***
 > 1. Bot 어떻게 적용할까? (실제 예시를 바탕으로)
 > 2. Bot Service와 Bot Framework (쉽게 만드는 bot)
 > 3. Bot Framework with Azure. (Bot Framework는 Azure 환경에서 어떻게 실행되는가)
+> 4. LUIS를 썼더니 우리 카톡봇이 달라졌어요! (Bot Framework + @)
 - 2차 세미나
 > 1. 실습 안내자료
 실습코드 폴더에 2차 세미나의 완성 코드를 첨부하였습니다.
 이 코드를 참고하시면 LUIS를 사용하는 모든 챗봇을 만들 수 있습니다.
+
+
+### 현장 사진
+
+![1차세미나](/album/)
