@@ -47,9 +47,9 @@ npm install --save ***
 
 ### 현장 사진
 
-![1차세미나](BotService/album/image4.jpg)
-![1차세미나](BotService/album/image5.jpg)
-![1차세미나](BotService/album/image3.jpg)
-![2차세미나](BotService/album/image1.jpg)
+![1차세미나](https://github.com/yunmap/BotService/album/image4.jpg)
+![1차세미나](https://github.com/yunmap/BotService/album/image5.jpg)
+![1차세미나](https://github.com/yunmap/BotService/album/image3.jpg)
+![2차세미나](https://github.com/yunmap/BotService/album/image1.jpg)
 Microsoft의 배민수 차장님의 Introduction으로 시작한 2차 세미나!
-![2차세미나](BotService/album/image2.jpg)
+![2차세미나](https://github.com/yunmap/BotService/album/image2.jpg)
