@@ -9,6 +9,7 @@
 - 정주홍 (https://github.com/toughrogrammer, )
 - 황나윤
 
+
 ### Bot Service 만드는 과정
 
 0. 한국어를 사용하는 자연어처리 챗봇을 만들기 위해서 bot을 만들 때 Language Understanding이 아닌 그냥 **basic model을 선택해야 합니다**. 추측으로는 Language Understanding model 자체가 영어로 설정되어 있기 때문에 언어 상의 충돌이 발생하기 때문인 것 같습니다.
@@ -44,6 +45,7 @@ npm install --save ***
 실습코드 폴더에 2차 세미나의 완성 코드를 첨부하였습니다.
 이 코드를 참고하시면 LUIS를 사용하는 모든 챗봇을 만들 수 있습니다.
 > 2. 안내 자료와 함께 코드를 보시는 것을 권장합니다.
+
 
 
 ### 현장 사진
